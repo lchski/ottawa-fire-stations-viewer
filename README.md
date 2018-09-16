@@ -1,0 +1,1 @@
+To run this, you’ll need a GeoJSON file with Ottawa’s fire stations, named `fire-stations.geojson`. You can get this from [my extractor](https://github.com/lchski/ottawa-fire-stations/blob/master/extractor.R) if you don’t want to do this manually.
